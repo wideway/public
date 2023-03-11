@@ -4,7 +4,7 @@ import (
 	"time"
 
 	"github.com/gomodule/redigo/redis"
-	"github.com/xxjwxc/public/mylog"
+	"github.com/wideway/public/mylog"
 )
 
 func (mc *redisConPool) TryLock(key interface{}, value interface{}, lifeSpan time.Duration) (err error) {

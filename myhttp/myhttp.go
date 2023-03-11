@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/xxjwxc/public/mylog"
+	"github.com/wideway/public/mylog"
 )
 
 // OnPostJSON 发送修改密码

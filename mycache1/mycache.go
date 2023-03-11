@@ -6,7 +6,7 @@ package mycache
 import (
 	"time"
 
-	"github.com/xxjwxc/public/mycache/cache2go"
+	"github.com/wideway/public/mycache/cache2go"
 )
 
 // MyCache 内存缓存

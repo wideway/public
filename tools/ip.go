@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/xxjwxc/public/mylog"
+	"github.com/wideway/public/mylog"
 )
 
 // GetWwwIP 获取公网IP地址

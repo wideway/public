@@ -8,8 +8,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/xxjwxc/public/mycache/cache2go"
-	"github.com/xxjwxc/public/serializing"
+	"github.com/wideway/public/mycache/cache2go"
+	"github.com/wideway/public/serializing"
 )
 
 // CacheIFS 缓存操作接口

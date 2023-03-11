@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"log"
 
-	"github.com/xxjwxc/public/errors"
+	"github.com/wideway/public/errors"
 
 	"reflect"
 	"strings"

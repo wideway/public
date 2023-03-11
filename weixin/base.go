@@ -13,11 +13,11 @@ import (
 
 	"github.com/bitly/go-simplejson"
 	"github.com/usthooz/gutil"
-	"github.com/xxjwxc/public/message"
-	"github.com/xxjwxc/public/mycache"
-	"github.com/xxjwxc/public/myhttp"
-	"github.com/xxjwxc/public/mylog"
-	"github.com/xxjwxc/public/tools"
+	"github.com/wideway/public/message"
+	"github.com/wideway/public/mycache"
+	"github.com/wideway/public/myhttp"
+	"github.com/wideway/public/mylog"
+	"github.com/wideway/public/tools"
 )
 
 const (

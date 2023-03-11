@@ -15,7 +15,7 @@ import (
 
 	"github.com/golang/freetype"
 	"github.com/golang/freetype/truetype"
-	"github.com/xxjwxc/public/mylog"
+	"github.com/wideway/public/mylog"
 )
 
 type Pen struct {

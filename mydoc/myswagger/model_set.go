@@ -15,7 +15,7 @@ var info Info = Info{
 }
 var externalDocs ExternalDocs = ExternalDocs{
 	Description: "Find out more about Swagger",
-	URL:         "https://github.com/xxjwxc/public",
+	URL:         "https://github.com/wideway/public",
 }
 
 // SetVersion 设置版本号

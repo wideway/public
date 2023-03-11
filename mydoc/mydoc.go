@@ -4,11 +4,11 @@ import (
 	"html/template"
 	"sort"
 
-	"github.com/xxjwxc/public/mylog"
+	"github.com/wideway/public/mylog"
 
-	"github.com/xxjwxc/public/mydoc/mymarkdown"
-	"github.com/xxjwxc/public/mydoc/myswagger"
-	"github.com/xxjwxc/public/tools"
+	"github.com/wideway/public/mydoc/mymarkdown"
+	"github.com/wideway/public/mydoc/myswagger"
+	"github.com/wideway/public/tools"
 )
 
 type model struct {

@@ -6,7 +6,7 @@ package message
 import (
 	"fmt"
 
-	"github.com/xxjwxc/public/mylog"
+	"github.com/wideway/public/mylog"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
 )

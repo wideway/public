@@ -3,7 +3,7 @@ package mysqldbv1
 import (
 	"fmt"
 
-	"github.com/xxjwxc/public/mylog"
+	"github.com/wideway/public/mylog"
 
 	"github.com/jinzhu/gorm"
 )

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/xxjwxc/public/mycache/cache2go"
+	"github.com/wideway/public/mycache/cache2go"
 )
 
 // Keys & values in cache2go can be of arbitrary types, e.g. a struct.

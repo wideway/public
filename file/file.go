@@ -8,7 +8,7 @@ import (
 
 	"time"
 
-	"github.com/xxjwxc/public/tools"
+	"github.com/wideway/public/tools"
 )
 
 //上传单个文件

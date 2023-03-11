@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/xxjwxc/public/mycache/cache2go"
+	"github.com/wideway/public/mycache/cache2go"
 )
 
 func main() {

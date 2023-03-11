@@ -3,12 +3,12 @@ package timerDeal
 import (
 	"log"
 
-	"github.com/xxjwxc/public/tools"
+	"github.com/wideway/public/tools"
 
 	"time"
 
-	"github.com/xxjwxc/public/mydef"
-	"github.com/xxjwxc/public/mylog"
+	"github.com/wideway/public/mydef"
+	"github.com/wideway/public/mylog"
 )
 
 /*

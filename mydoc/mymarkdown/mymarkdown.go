@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/xxjwxc/public/tools"
+	"github.com/wideway/public/tools"
 )
 
 // DocMarkdown

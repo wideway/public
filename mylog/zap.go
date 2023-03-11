@@ -7,7 +7,7 @@ import (
 	"path"
 
 	"github.com/pkg/errors"
-	"github.com/xxjwxc/public/dev"
+	"github.com/wideway/public/dev"
 
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"

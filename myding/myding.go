@@ -8,8 +8,8 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/xxjwxc/public/myhttp"
-	"github.com/xxjwxc/public/tools"
+	"github.com/wideway/public/myhttp"
+	"github.com/wideway/public/tools"
 )
 
 type robot struct {

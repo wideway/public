@@ -6,12 +6,12 @@ import (
 	"os"
 	"time"
 
-	"github.com/xxjwxc/public/dev"
-	myerrors "github.com/xxjwxc/public/errors"
+	"github.com/wideway/public/dev"
+	myerrors "github.com/wideway/public/errors"
 	"gorm.io/gorm/logger"
 	"gorm.io/gorm/schema"
 
-	"github.com/xxjwxc/public/mylog"
+	"github.com/wideway/public/mylog"
 
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"

@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/xxjwxc/public/tools"
+	"github.com/wideway/public/tools"
 )
 
 // GetExp 获取字符串后缀

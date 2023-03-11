@@ -5,9 +5,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/xxjwxc/public/dev"
+	"github.com/wideway/public/dev"
 
-	"github.com/xxjwxc/public/errors"
+	"github.com/wideway/public/errors"
 )
 
 func TestStdLog(t *testing.T) {

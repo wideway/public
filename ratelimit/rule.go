@@ -2,7 +2,7 @@ package ratelimit
 
 import (
 	"fmt"
-	"github.com/xxjwxc/public/errors"
+	"github.com/wideway/public/errors"
 	"math"
 	"sort"
 	"strconv"

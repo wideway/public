@@ -10,12 +10,12 @@ import (
 	"os"
 	"path"
 
-	"github.com/xxjwxc/public/dev"
+	"github.com/wideway/public/dev"
 
 	"time"
 
-	"github.com/xxjwxc/public/mylog"
-	"github.com/xxjwxc/public/tools"
+	"github.com/wideway/public/mylog"
+	"github.com/wideway/public/tools"
 )
 
 // UploadMoreFile 多文件上传,dir:空则使用文件后缀做dir

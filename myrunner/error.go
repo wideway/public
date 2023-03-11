@@ -1,6 +1,6 @@
 package myrunner
 
-import "github.com/xxjwxc/public/errors"
+import "github.com/wideway/public/errors"
 
 //任务执行超时
 var ErrTimeOut = errors.New("run time out")

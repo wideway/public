@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/xxjwxc/public/mylog"
+	"github.com/wideway/public/mylog"
 )
 
 // SmallAppOauth 小程序授权

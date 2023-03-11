@@ -9,8 +9,8 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/xxjwxc/public/errors"
-	"github.com/xxjwxc/public/tools"
+	"github.com/wideway/public/errors"
+	"github.com/wideway/public/tools"
 )
 
 type ObjFunInfo struct {
